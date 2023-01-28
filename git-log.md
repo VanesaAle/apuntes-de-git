@@ -2,6 +2,7 @@
 Muestra todo el historial de commits del proyecto
 
 'git log --pretty=format:"%h - %an, %ar : %s"'
+
 Muestra el historial con el formato que indicamos.
 
 ### Limitar la salida del historial
@@ -14,3 +15,6 @@ por ejemplo: 'git log -2' nos mostrará los 2 commit mas recientes.
 
 Las banderas del comando 'git log' se pudeden usar juntas según nos convenga, por ejemplo:
 'git log --after="2022-01-25 12:00:00" --before="2022-01-25 12:30:00"'
+
+'git log --oneline'
+Este comando nos muestra el historial en una sola línea por commit.
