@@ -2,6 +2,8 @@
 Sistema de control de versiones para el mantenimiento eficiente
 y confiable de archivos.
 
+esta línea fue creada en la rama master.
+
 ## Zonas de Git
 1. Directorio de trabajo
 2. Área de preparación
