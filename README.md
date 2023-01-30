@@ -1,8 +1,8 @@
-## Curso Git desde cero
+# Curso Git desde cero
 Sistema de control de versiones para el mantenimiento eficiente
 y confiable de archivos.
 
-esta línea fue creada en la rama master.
+
 
 ## Zonas de Git
 1. Directorio de trabajo
@@ -21,3 +21,6 @@ git config --global user.name "Vanesa Pacehco"
 git config --global user.email "vanale.pach@gmail.com"
 git config --global core.editor nano
 git config --list
+
+## Aportes desde otra cuenta
+Este texto fue aportado desde la cuenta VanesaAle 
