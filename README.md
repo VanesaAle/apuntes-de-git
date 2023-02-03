@@ -22,6 +22,5 @@ git config --global user.email "vanale.pach@gmail.com"
 git config --global core.editor nano
 git config --list
 
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta VanesaAle 
+
 
